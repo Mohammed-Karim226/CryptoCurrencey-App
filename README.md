@@ -1,11 +1,16 @@
-Introducing [CryptoVerse] - Your Ultimate Cryptocurrency Companion! 🌐💰Hey Crypto Enthusiasts! We're thrilled to announce the launch of [CryptoVerse], a cutting-edge web application designed to revolutionize your cryptocurrency experience. 🚀✨
+Introducing [CryptoVerse] - Your Ultimate Cryptocurrency Companion! 
+🌐💰Hey Crypto Enthusiasts! We're thrilled to announce the launch of [CryptoVerse],
+a cutting-edge web application designed to revolutionize your cryptocurrency experience. 🚀✨
+
+Live Demo: crypto-currencey-app.vercel.app
+
 📈 Track Prices in Real-Time
 🔍 Sequential Ranking
 🔎 Detailed Currency Search
 📊 Illustrative Graphic Display
+👥 Explore Shareholders and Large CompaniesTechnologies and it's related adds
 
-👥 Explore Shareholders and Large CompaniesTechnologies and it's related adds:
-
+Tech:
 -React
 -Redux Toolkit/Query
 -React Routing
@@ -17,7 +22,7 @@ Introducing [CryptoVerse] - Your Ultimate Cryptocurrency Companion! 🌐💰Hey 
 -Moment
 -React chart js 2
 
-
+APIs:
 -coin ranking api
 -news api
 
