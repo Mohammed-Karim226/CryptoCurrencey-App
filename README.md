@@ -2,7 +2,7 @@ Introducing [CryptoVerse] - Your Ultimate Cryptocurrency Companion!
 🌐💰Hey Crypto Enthusiasts! We're thrilled to announce the launch of [CryptoVerse],
 a cutting-edge web application designed to revolutionize your cryptocurrency experience. 🚀✨
 
-Live Demo: https//crypto-currencey-app.vercel.app/
+Live Demo: https://crypto-currencey-app.vercel.app/
 
 📈 Track Prices in Real-Time
 🔍 Sequential Ranking
